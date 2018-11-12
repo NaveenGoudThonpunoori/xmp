@@ -4,7 +4,7 @@ require "xmp/version"
 
 Gem::Specification.new do |s|
   s.name        = "xmp"
-  s.version     = XMP::VERSION
+  s.version     = 3.0
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Wojciech Piekutowski"]
   s.email       = ["wojciech.piekutowski@amberbit.com"]
